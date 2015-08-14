@@ -10,4 +10,4 @@ parse to string! read https://wiki.libsdl.org/SDLKeycodeLookup [
 ]
 
 
-
+This reads an sdl docs page dealing with SDLKeycodeLookup then it prints all hex and SDLK keywords
