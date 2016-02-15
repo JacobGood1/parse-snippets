@@ -1,3 +1,5 @@
+Red []
+
 parse to string! read https://wiki.libsdl.org/SDLKeycodeLookup [
     to {<p class="line862">0</td>}
     any [
